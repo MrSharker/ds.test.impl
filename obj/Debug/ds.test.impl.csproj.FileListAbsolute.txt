@@ -1,0 +1,6 @@
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\obj\Debug\ds.test.impl.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\obj\Debug\ds.test.impl.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\bin\Debug\lib.dll
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\bin\Debug\lib.pdb
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\obj\Debug\lib.dll
+C:\Users\Михаил\source\repos\ds.test.impl\ds.test.impl\obj\Debug\lib.pdb
